@@ -3,4 +3,5 @@
 
 how to run:
 java -jar DictionaryServer.jar
+
 java -jar DictionaryClient.jar
